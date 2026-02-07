@@ -1,0 +1,6 @@
+# Site settings for Thuiswerk app
+title: Thuiswerk
+description: A privacy-focused app for tracking your work-from-home days. All data stays on your device.
+
+# GitHub Pages settings
+theme: jekyll-theme-minimal

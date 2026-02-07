@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy - Thuiswerk
+description: Privacy policy for Thuiswerk, a privacy-focused work-from-home tracking app
+---
+
 # Privacy Policy
 
 **Thuiswerk** respects your privacy.
